@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Spreading the Easter spirit","Teaching gambling to kids","ily roti bawang putih"];
+const statusMessages = ["Spreading the Easter spirit","Teaching gambling to kids","ily roti bawang putih, Best RNG bot Ballsdex has seen???, 🔗: discord.gg/bF3HnW3VYH"];
 
 let currentIndex = 0;
 const channelId = '';
